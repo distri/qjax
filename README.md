@@ -1,0 +1,4 @@
+qjax
+====
+
+Ajax with promises
